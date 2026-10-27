@@ -1,0 +1,6 @@
+{
+  "name": "Public Complaint Portal - Government of Tamil Nadu",
+  "description": "Official Tamil Nadu Public Complaint Portal for citizen grievance redressal, multi-step complaint filing, AI classification, duplicate detection, live tracking, and printable receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
